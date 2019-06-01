@@ -1,5 +1,5 @@
 # botupdate.txt
-# github.com/tarotaro17/hypnomalneuralnet
+# github.com/tarotaro17/botupdate/botupdate.txt
 # /HYPNO/TARGETEDCOMMANDS/botupdate.txt
 # /etc/hypno.rc
 # TYPE: ASCII ENGLISH
