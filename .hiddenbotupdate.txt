@@ -5,7 +5,7 @@
 # TYPE: ASCII ENGLISH
 # VERNACULAR: 21st CENTURY, AMERICAN
    
-# date: 20190531.1 C.E.(ANNO  DOMINI)
+# date: 20190601.1 C.E.(ANNO  DOMINI)
 # Owner: david patrone (willyb)
 # Author: (dave, brian, issac)
 # Email: jazzentertainer@icloud.com
