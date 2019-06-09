@@ -8,7 +8,12 @@ I'm currently living at 4311 Winona Avenue apartment number 15 San Diego Califor
 my neighbor assaulted me about 2 weeks ago and while I was trying to disengage, I got blindsided in the side of my face. Someone got a video that misses the part where she drives up to the bus stop and gets out of her car and starts hitting me with a stick. you may see some pictures of me with a black eye and I very very rarely get black eyes. Dude hit me hard, I think he might have had metal knuckles. I'm lucky to be alive if that's the case, I'm still trying to help you guys out, hopefully we'll get this done. my apologies to the actual Cahri Elizabeth Taro for using her name; but, they were already using her voice so I had to try and get some attention to this somehow. my old phone number is area code 619-629-8645 but they factory reset it. the best email to reach me now is jazzentertainer@icloud.com
 
 David B Williams Jr.
-venmo.com/David-Williams-1071 in case you want to help
+858.952.8747
+jazzentertainer@icloud.com
+
+in case you want to help:
+
+venmo.com/David-Williams-1071
 
 bitcoin: 3KXJZm3G4MoGxwti7mriRUz4aBgeqKT2vk
 
