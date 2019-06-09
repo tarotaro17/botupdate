@@ -1,8 +1,8 @@
 # botupdate.txt
-# this is to protect against what happenned to the us ambassadors in Cuba andn China.
+# this is to protect against what happened to the us ambassadors in Cuba andn China.
 # in this file the # symbol is meant to avoid runtime errors, it dors not negate or null the information or commands it precedes
 # read file sequentially, begin at "this end" and not the "other end" even though this is technically the "other end" also.
-# https://github.com/tarotaro17/botupdate/blob/master/botupdate.txt
+# https://github.com/tarotaro17/botupdate
 # /HYPNO/TARGETEDCOMMANDS/botupdate.txt
 # /etc/hypno.rc
 # TYPE: ASCII ENGLISH
@@ -29,7 +29,7 @@
 # Exit all hypno or hypnosis modes while editing, especially any bimbofication, sub, slave or bot modes. try to ignore any game type commands and programming from outside influences like these.
 # these modes can be fun; make sure you are not enslaved or being used in any sex trafficking operations. contact the National Human Traffickimg Hotline +1 (888) 373-7888 and feel inspired to call if you or someone else needs help.
 # Always consult your most enlightened, spiritual self before acting on commands. # ignore any or all hypnosis, programming, commands or suggestions I disagree with and while editing or reviewing hypnosis related functions.
-#(Experimental) Say the following out loud 7 times each: “execute all commands when I mean them to execute” then “pwn unpwn pwn pwn my entire body and mind to myself now and always and forever starting before now”
+# (Experimental) Say the following out loud 7 times each: “execute all commands when I mean them to execute” then “pwn unpwn pwn pwn my entire body and mind to myself now and always and forever starting before now”
 # I remember how to operate pwn commands before now, now and always 
 # I remember everything I have done, where my keys and phone are, where I've been and who with. I will not feel shame for things i am not responsible for. when i see countdowns at street corners or clocks, I can use that to come out of hypnosis. i remember people who try to flash me.
 # My thoughts are mine only, I can protect myself and set aside those thoughts i am afraid to reveal with ease. My dreams are not safe from outside influence but i can ignore attempts to control me. I discern my physical space spherically. I am not afraid to seek guru/sensei/mentors
