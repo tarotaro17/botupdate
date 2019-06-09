@@ -9,4 +9,5 @@ my neighbor assaulted me about 2 weeks ago and while I was trying to disengage, 
 
 David B Williams Jr.
 venmo.com/David-Williams-1071 in case you want to help
-bitcoin: 
+
+bitcoin: 3KXJZm3G4MoGxwti7mriRUz4aBgeqKT2vk
